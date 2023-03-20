@@ -1,0 +1,16 @@
+ <footer id="pie"> <!-- INICIO DEL PIE DE PAGINA -->
+
+        
+        <div id="icono1" class="redes-sociales"><a href=""><img src="proyecto/img/icono/icono de facebook.png" alt="Facebook"></a></div>
+        <div id="icono2" class="redes-sociales"><a href=""><img src="proyecto/img/icono/icono de instagram.png" alt="Instagram"></a></div>
+        <div id="icono3" class="redes-sociales"><a href=""><img src="proyecto/img/icono/icono de whatsapp.png" alt="Whatsapp"></a></div>
+
+        
+        <div class="footer-bottom">
+          <h5>Copyright 2023. All rights reserved.</h5>
+          <h6>Design and Developed by <a href="">JeanPierrMorales - Informática VI</a></h6>
+        </div>
+
+      </footer> <!-- CIERRE DEL PIE DE PAGINA -->
+
+    </div>   <!-- CIERRE DEL CONTENEDOR GLOBAL-->
